@@ -1,0 +1,23 @@
+{
+  "module": "opencode-token-pool",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "pool": {
+      "enabled": true
+    },
+    "rotate": {
+      "enabled": true
+    },
+    "inject": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
