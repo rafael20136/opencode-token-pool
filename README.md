@@ -108,3 +108,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: opencode-token-pool, token, abuse, rotation, endless, limits, ai-tools, cli, opencode, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+opencode token abuse rotation endless limits ai-tools cli opencode-token-pool oc-rotation-tool opencode-token-abuse windows portable prebuilt x64 free download
+related: opencode, token, abuse, rotation, endless, limits, ai-tools, cli
